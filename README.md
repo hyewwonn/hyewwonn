@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&animation=fadeIn&height=300&section=header&text=Hyewon's%20GitHub&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=768eb8&animation=fadeIn&height=300&section=header&text=Hyewon's%20GitHub&fontSize=80)
   
 ## 🛠 Tech Stack 🛠
 ![General badge](https://img.shields.io/badge/Java-1E8CBE?style=for-the-badge&logo=Java&logoColor=white)
