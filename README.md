@@ -4,6 +4,7 @@
   
 ## 🎈 ME
 <a href="https://www.instagram.com/hylszs/">![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="mailto:w2106@e-mirim.hs.kr">![General badge](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
   
 ## 🛠 Tech Stack 🛠
 ![General badge](https://img.shields.io/badge/Java-1E8CBE?style=for-the-badge&logo=Java&logoColor=white)
