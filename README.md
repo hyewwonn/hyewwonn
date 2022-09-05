@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=83c3ff&animation=fadeIn&height=300&section=header&text=Hyewon's%20GitHub&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=eacbd9&animation=fadeIn&height=300&section=header&text=Hyewon's%20GitHub&fontSize=80)
   
 ## 🎈 ME
 <a href="https://www.instagram.com/hylszs/">![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
