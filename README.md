@@ -9,4 +9,4 @@
 ![General badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbdbennn&exclude_repo=github-readme-stats,dbdbennn.github.io)](https://github.com/uzsilver/github-readme-stats)
-[![JungEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbdbennn)](https://github.com/dbdbennn/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyewwonn)](https://github.com/hyewwonn/github-readme-stats)
