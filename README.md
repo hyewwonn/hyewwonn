@@ -13,6 +13,7 @@
 ![General badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)<br>
 ![General badge](https://img.shields.io/badge/Node-8BC500?style=for-the-badge&logo=node.js&logoColor=black)
 ![General badge](https://img.shields.io/badge/Spring-6EB33F?style=for-the-badge&logo=spring&logoColor=black)
+![General badge](https://img.shields.io/badge/Oracle-C74634?style=for-the-badge&logo=oracle&logoColor=white)
 ![General badge](https://img.shields.io/badge/Java-1E8CBE?style=for-the-badge&logo=java&logoColor=white)
 ![General badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![General badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
