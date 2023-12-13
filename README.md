@@ -1,6 +1,4 @@
-<!-- <div align=center>
- -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=300&section=header&text=Hyewon's%20GitHub&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=67d0e0&animation=twinkling&height=200&section=header&text=🐠&fontSize=60)
   
 ### 💻 Tech Stack
 ![General badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -9,12 +7,14 @@
 ![General badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![General badge](https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=java&logoColor=white)
 ![General badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-  
+
+<!-- 
 ### ✏ studying
 ![General badge](https://img.shields.io/badge/Node-8BC500?style=flat-square&logo=node.js&logoColor=black)
 ![General badge](https://img.shields.io/badge/Spring-6EB33F?style=flat-square&logo=spring&logoColor=black)
 ![General badge](https://img.shields.io/badge/Oracle-C74634?style=flat-square&logo=oracle&logoColor=white)
 ![General badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+--->
 
 ### 🛠 Tools 
 ![General badge](https://img.shields.io/badge/intellij-000000?style=flat-square&logo=IntelliJ-idea&logoColor=white)
