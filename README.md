@@ -20,7 +20,6 @@
 ![General badge](https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![General badge](https://img.shields.io/badge/intellij-000000?style=flat-square&logo=IntelliJ-idea&logoColor=white)
 ![General badge](https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=Eclipse-ide&logoColor=white)<br>
-![General badge](https://img.shields.io/badge/sublimetext-FF9800?style=flat-square&logo=sublime-text&logoColor=white)
 <br><br><br>
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyewwonn)](https://github.com/hyewwonn/github-readme-stats)
