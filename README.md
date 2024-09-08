@@ -7,19 +7,14 @@
 ![General badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![General badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<!-- 
-### ✏ studying
-![General badge](https://img.shields.io/badge/Node-8BC500?style=flat-square&logo=node.js&logoColor=black)
-![General badge](https://img.shields.io/badge/Spring-6EB33F?style=flat-square&logo=spring&logoColor=black)
-![General badge](https://img.shields.io/badge/Oracle-C74634?style=flat-square&logo=oracle&logoColor=white)
-![General badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
---->
-
-### 🛠 Tools 
+### 🛠 Collaboration & Tools 
 ![General badge](https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![General badge](https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![General badge](https://img.shields.io/badge/intellij-000000?style=flat-square&logo=IntelliJ-idea&logoColor=white)
-![General badge](https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=Eclipse-ide&logoColor=white)<br>
+![General badge](https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=Eclipse-ide&logoColor=white)
+<br>
+![General badge](https://img.shields.io/badge/GitHub-292929?style=flat-square&logo=github&logoColor=white)
+![General badge](https://img.shields.io/badge/Figma-EB4B1D?style=flat-square&logo=figma&logoColor=white)
 <br><br><br>
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyewwonn)](https://github.com/hyewwonn/github-readme-stats)
